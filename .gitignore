@@ -2,6 +2,7 @@
 */node_modules/
 *.bbl
 *.blg
+*.out
 *.log
 *.synctex.gz
 *.aux
